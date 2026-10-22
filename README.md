@@ -24,10 +24,10 @@
 </p>
 
 <p align="center">
-  <a href="https://arxiv.org/abs/2610.27725"><img src="https://img.shields.io/badge/arXiv-2610.27725-b31b1b?style=for-the-badge&amp;logo=arxiv&amp;logoColor=white&amp;labelColor=263547" alt="arXiv: 2610.27725"></a>
-  <a href="https://arxiv.org/pdf/2610.27725"><img src="https://img.shields.io/badge/Paper-PDF-4c83b8?style=for-the-badge&amp;logo=readthedocs&amp;logoColor=white&amp;labelColor=263547" alt="Paper PDF"></a>
-  <a href="https://nintreesssss.github.io/World2HOSI/"><img src="https://img.shields.io/badge/Project-Page-628a7a?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white&amp;labelColor=263547" alt="Project Page"></a>
-  <a href="https://github.com/nintreesssss/World2HOSI-release"><img src="https://img.shields.io/badge/GitHub-Repository-24292f?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=263547" alt="GitHub Repository"></a>
+  <a href="https://arxiv.org/abs/2610.27725"><img src="https://img.shields.io/badge/arXiv-2610.27725-b31b1b?logo=arxiv&amp;logoColor=white" alt="arXiv: 2610.27725"></a>
+  <a href="https://arxiv.org/pdf/2610.27725"><img src="https://img.shields.io/badge/Paper-PDF-4c83b8?logo=readthedocs&amp;logoColor=white" alt="Paper PDF"></a>
+  <a href="https://nintreesssss.github.io/World2HOSI/"><img src="https://img.shields.io/badge/Project-Page-628a7a?logo=googlechrome&amp;logoColor=white" alt="Project Page"></a>
+  <a href="https://github.com/nintreesssss/World2HOSI-release"><img src="https://img.shields.io/badge/github-repo-blue?logo=github&amp;logoColor=white" alt="GitHub Repository"></a>
 </p>
 
 ![World2HOSI teaser](assets/teaser.png)
