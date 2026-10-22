@@ -1,9 +1,33 @@
-# World2HOSI: A Multi-Expert Harness for Long-Horizon Human-Object-Scene Interaction Generation
+<p align="center">
+  <img src="assets/world2hosi-logo.png" alt="World2HOSI" width="520">
+</p>
+
+<h1 align="center">A Multi-Expert Harness for Long-Horizon<br>Human-Object-Scene Interaction Generation</h1>
 
 <p align="center">
-  <a href="https://arxiv.org/pdf/2610.27725"><img src="https://img.shields.io/badge/Paper-PDF-blue?style=flat-square" alt="Paper PDF"></a>
-  <a href="https://arxiv.org/abs/2610.27725"><img src="https://img.shields.io/badge/arXiv-2610.27725-b31b1b?style=flat-square&amp;logo=arxiv&amp;logoColor=white" alt="arXiv"></a>
-  <a href="https://nintreesssss.github.io/World2HOSI/"><img src="https://img.shields.io/badge/Project%20Page-World2HOSI-e3b341?style=flat-square" alt="Project Page"></a>
+  Jiushu Li<sup>1</sup>,
+  Haoran Wang<sup>1</sup>,
+  Yumeng Liu<sup>2</sup>,
+  Zhiyang Dou<sup>3</sup>,
+  Yuan Liu<sup>4</sup>,
+  Yuexin Ma<sup>5</sup>,
+  Cheng Lin<sup>1,†</sup>
+</p>
+
+<p align="center">
+  <sup>1</sup> Macau University of Science and Technology &nbsp;&nbsp;
+  <sup>2</sup> University of Science and Technology of China<br>
+  <sup>3</sup> Massachusetts Institute of Technology &nbsp;&nbsp;
+  <sup>4</sup> The Hong Kong University of Science and Technology<br>
+  <sup>5</sup> ShanghaiTech University<br>
+  <sup>†</sup> Corresponding author
+</p>
+
+<p align="center">
+  <a href="https://arxiv.org/abs/2610.27725"><img src="https://img.shields.io/badge/arXiv-2610.27725-b31b1b?style=for-the-badge&amp;logo=arxiv&amp;logoColor=white&amp;labelColor=263547" alt="arXiv: 2610.27725"></a>
+  <a href="https://arxiv.org/pdf/2610.27725"><img src="https://img.shields.io/badge/Paper-PDF-4c83b8?style=for-the-badge&amp;logo=readthedocs&amp;logoColor=white&amp;labelColor=263547" alt="Paper PDF"></a>
+  <a href="https://nintreesssss.github.io/World2HOSI/"><img src="https://img.shields.io/badge/Project-Page-628a7a?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white&amp;labelColor=263547" alt="Project Page"></a>
+  <a href="https://github.com/nintreesssss/World2HOSI-release"><img src="https://img.shields.io/badge/GitHub-Repository-24292f?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=263547" alt="GitHub Repository"></a>
 </p>
 
 ![World2HOSI teaser](assets/teaser.png)
