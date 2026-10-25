@@ -79,5 +79,3 @@ If you find **World2HOSI** useful in your work, please consider citing:
   year={2026},
   url={https://arxiv.org/abs/2610.27725}
 }
-
-
