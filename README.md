@@ -71,11 +71,13 @@ To reduce physical artifacts, bounded residual optimization and contact-driven p
 If you find **World2HOSI** useful in your work, please consider citing:
 
 ```bibtex
-@misc{li2026world2hosi,
-      title={World2HOSI: A Multi-Expert Harness for Long-Horizon Human-Object-Scene Interaction Generation}, 
-      author={Jiushu Li and Haoran Wang and Yumeng Liu and Zhiyang Dou and Yuan Liu and Yuexin Ma and Cheng Lin},
-      year={2026},
-      journal={arXiv preprint arXiv:2610.27725},
-      url={[https://arxiv.org/abs/2610.27725](https://arxiv.org/abs/2610.27725)}, 
+
+@article{li2026world2hosi,
+  title={World2HOSI: A Multi-Expert Harness for Long-Horizon Human-Object-Scene Interaction Generation},
+  author={Li, Jiushu and Wang, Haoran and Liu, Yumeng and Dou, Zhiyang and Liu, Yuan and Ma, Yuexin and Lin, Cheng},
+  journal={arXiv preprint arXiv:2610.27725},
+  year={2026},
+  url={https://arxiv.org/abs/2610.27725}
 }
+
 
